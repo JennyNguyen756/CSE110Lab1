@@ -47,4 +47,9 @@ Congrats on making it this far in my User Page! In case you've forgotten my [nam
 
 ## Closing Remarks
 Follow my [twitch](https://www.twitch.tv/genuine756) ;)  
-Thanks for checking me out and have a fantastic day! :heart:
+Thanks for checking me out and have a fantastic day! <3
+
+Leaving you off with cute pics
+![cute dog](\images/cute%20dog.jpg)  
+![cute dog](\images/cute%20kitten.jpg)  
+
