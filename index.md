@@ -1,6 +1,6 @@
 # **Jenny Nguyen**
-## *Programmer - College Student - Gamer*
-### A page about myself :)
+*Programmer - College Student - Gamer*  
+A page about myself :)
 
 ## **Picture of myself**
 [Jenny Nguyen](images/JennyNguyen.jpg)
