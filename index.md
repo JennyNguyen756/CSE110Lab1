@@ -50,6 +50,6 @@ Follow my [twitch](https://www.twitch.tv/genuine756) ;)
 Thanks for checking me out and have a fantastic day! <3
 
 Leaving you off with cute pics
-![cute dog](\images/cute%20dog.jpg)  
-![cute dog](\images/cute%20kitten.jpg)  
+![cute dog](\images/cutedog.jpg)  
+![cute dog](\images/cutekitten.jpg)  
 
